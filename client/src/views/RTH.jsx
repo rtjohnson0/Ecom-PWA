@@ -213,8 +213,8 @@ export default class Product extends React.Component {
                                                     <p className="card-text text-white">{products.des_box}</p>
                                                     <div class="d-flex justify-content-between align-items-center">
                                                         <div class="btn-group">
-                                                            <button type="button" class="btn btn-sm btn-outline-light">Edit</button>
-                                                            <button type="button" class="btn btn-sm btn-outline-light">Delete</button>
+                                                            <button type="button" class="btn btn-sm btn-outline-light">View</button>
+                                                            <button type="button" class="btn btn-sm btn-outline-light">Buy</button>
                                                         </div>
                                                     </div>
                                                     <small class="text-white">{products.price}</small>

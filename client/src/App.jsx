@@ -47,6 +47,7 @@ class App extends React.Component {
 						return currentUser
 							? <RTH />
 							: <Redirect to="/login" />
+							
 					}} />
 
 					<Route path="/" component={Home} />

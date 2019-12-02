@@ -10,25 +10,21 @@
     "client": "cd client && npm run start",
     "install": "cd client && npm install",
     "build": "cd client && npm run build",
-    "heroku-postbuild": "npm run build",
-    "start-sw": "cd client && http-server ./build"
+    "heroku-postbuild": "npm run build"
   },
   "author": "Road to Hire",
   "license": "MIT",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
-    "cors": "^2.8.5",
     "dotenv": "^6.1.0",
     "express": "^4.16.2",
-    "fastify": "^2.10.0",
-    "if-env": "^1.0.4",
     "jsonwebtoken": "^8.1.0",
     "mongoose": "5.3.8",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "if-env": "^1.0.4"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
-    "http-server": "^0.11.1",
     "nodemon": "^1.18.7"
   }
 }

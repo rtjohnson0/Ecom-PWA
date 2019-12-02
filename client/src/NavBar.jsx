@@ -9,8 +9,9 @@ const NavBar = (props) => {
 			{props.currentUser
 				? (
 					<span>
-						<Link to="/rth">Edit Products</Link>
+						<Link to="/rth">ADMIN</Link>
 						<Link to="/logout">Log Out</Link>
+						
 					</span>
 				)
 				: (

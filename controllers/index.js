@@ -10,8 +10,8 @@ module.exports = {
 		})
 	},
 	allProducts: (req, res) => {
-		products.find({}, (err,products) => {
-			res.json(products)
+		products.find({}, (err, users) => {
+			res.json(users)
 		})
 	},
 	sportsGames: (req, res) => {

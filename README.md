@@ -2,7 +2,7 @@
 
 
 
-The task was to build a UI for my products page while connecting it to my own MongoDB Atlas Database. Only allowing the admin to login and see the products to manipulate them if needed. This task was built and launched on Heroku by Reginald Johnson Jr
+The task was to build a UI for my products page while connecting it to my own MongoDB Atlas Database. Only allowing the admin to login and see the products to manipulate them if needed. Created a PWA to allow anyone to add this to their home screen on their phone! This task was built and launched on Heroku by Reginald Johnson Jr
 https://authreggie.herokuapp.com/
 
 # Prerequisites & Installation!

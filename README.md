@@ -17,7 +17,7 @@ https://authreggie.herokuapp.com/
   
   # Use my app on your device!
 ```
-   1.   click on this (link)[https://authreggie.herokuapp.com/] on your device
+   1.   click on this link [https://authreggie.herokuapp.com/] on your device
    2.   click the button to share 
    3.   scroll down and find the button that says "add to homescreen"
    4.   click confirm

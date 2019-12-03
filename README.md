@@ -23,6 +23,10 @@ https://authreggie.herokuapp.com/
    4.   click confirm
    5.   have fun!
   ```
+  ![ ](client/public/images/iphoneEB.jpg)
+  
+  ![ ](client/public/images/EBGAMES.png)
+  
   
   ##  Audits
   

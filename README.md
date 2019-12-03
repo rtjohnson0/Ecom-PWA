@@ -17,7 +17,7 @@ https://authreggie.herokuapp.com/
   
   # Use my app on your device!
 ```
-   1.   click on this link(https://authreggie.herokuapp.com/) on your device
+   1.   click on this [link](https://authreggie.herokuapp.com/) on your device
    2.   click the button to share 
    3.   scroll down and find the button that says "add to homescreen"
    4.   click confirm
@@ -28,11 +28,11 @@ https://authreggie.herokuapp.com/
   
   ### Pre-PWA
   
-  (audits/11-25-2019.png)
+  !(audits/11-25-2019.png)
   
   ### Post-PWA
   
-  (audits/postaudit.png)
+  !(audits/postaudit.png)
 
 
 ##  Languages & Tools

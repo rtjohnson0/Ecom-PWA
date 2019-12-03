@@ -14,6 +14,25 @@ https://authreggie.herokuapp.com/
    5.    create .env with your own local mongoDB
    6.   npm run start
   ```
+  
+  # Use my app on your device!
+```
+   1.   click on this link(https://authreggie.herokuapp.com/) on your device
+   2.   click the button to share 
+   3.   scroll down and find the button that says "add to homescreen"
+   4.   click confirm
+   5.   have fun!
+  ```
+  
+  ##  Audits
+  
+  ### Pre-PWA
+  
+  (audits/11-25-2019.png)
+  
+  ### Post-PWA
+  
+  (audits/postaudit.png)
 
 
 ##  Languages & Tools

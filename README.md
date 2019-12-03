@@ -28,11 +28,11 @@ https://authreggie.herokuapp.com/
   
   ### Pre-PWA
   
-  ![](audits/11-25-2019.png)
+  ![ ](audits/11-25-2019.png)
   
   ### Post-PWA
   
-  ![](audits/postaudit.png)
+  ![ ](audits/postaudit.png)
 
 
 ##  Languages & Tools

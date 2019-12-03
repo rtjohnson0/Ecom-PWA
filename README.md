@@ -28,7 +28,7 @@ https://authreggie.herokuapp.com/
   
   ### Pre-PWA
   
-  ![ ](audits/11-25-2019.png)
+  ![ ](audits/newDoc.png)
   
   ### Post-PWA
   
